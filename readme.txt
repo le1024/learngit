@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 开始学习Git
 
 git status：查看仓库当前的状态
